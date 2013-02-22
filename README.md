@@ -1,4 +1,0 @@
-tic
-===
-
- tic tac toe
